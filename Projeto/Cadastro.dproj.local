@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/05/26 15:15:15.000.516,=C:\Users\Luciano\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/06/01 09:55:53.000.091,=C:\Users\Luciano\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/06/01 11:45:17.000.273,=C:\Users\Luciano\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/06/05 23:42:02.000.936,=C:\Users\Luciano\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/05 10:38:48.000.066,=C:\Users\Luciano\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/05 11:45:14.000.659,=C:\Users\Luciano\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/05 13:01:34.000.783,=C:\Users\Luciano\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/06 07:45:21.000.218,=C:\Users\Luciano\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/20 14:06:18.000.087,=C:\Users\Luciano\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/10 15:22:39.000.882,=C:\Users\Luciano\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/03/29 09:18:18.000.440,=C:\Users\Luciano\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/04/16 07:42:47.000.900,=C:\Users\Luciano\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/05/24 08:06:23.000.729,=C:\Users\Luciano\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/05/24 08:35:02.000.741,=C:\Users\Luciano\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/11/04 16:00:22.000.790,=C:\Users\Luciano\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/11/04 16:03:30.000.712,C:\Users\Luciano\Desktop\Teste Delphi\Projeto\Cadastro.dproj=C:\Users\Luciano\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/11/04 16:03:39.000.466,=C:\Users\Luciano\Desktop\Teste Delphi\View\Cadastro.View.Principal.pas</Transaction>
+    <Transaction>2021/11/04 16:03:59.000.932,C:\Users\Luciano\Desktop\Teste Delphi\View\Cadastro.View.Principal.pas=</Transaction>
+    <Transaction>2021/11/04 16:04:33.000.714,=C:\Users\Luciano\Desktop\Teste Delphi\Projeto\Unit1.pas</Transaction>
+    <Transaction>2021/11/04 16:16:37.000.066,C:\Users\Luciano\Desktop\Teste Delphi\View\Cadastro.View.Principal.pas=C:\Users\Luciano\Desktop\Teste Delphi\Projeto\Unit1.pas</Transaction>
+    <Transaction>2021/11/04 16:16:37.000.066,C:\Users\Luciano\Desktop\Teste Delphi\View\Cadastro.View.Principal.dfm=C:\Users\Luciano\Desktop\Teste Delphi\Projeto\Unit1.dfm</Transaction>
+    <Transaction>2021/11/04 20:32:42.000.308,=C:\Users\Luciano\Desktop\Teste Delphi\Projeto\Unit1.pas</Transaction>
+    <Transaction>2021/11/04 20:34:47.000.657,C:\Users\Luciano\Desktop\Teste Delphi\Model\Cadastro.Model.Interfaces.pas=C:\Users\Luciano\Desktop\Teste Delphi\Projeto\Unit1.pas</Transaction>
+    <Transaction>2021/11/04 20:35:44.000.337,=C:\Users\Luciano\Desktop\Teste Delphi\Projeto\Unit1.pas</Transaction>
+    <Transaction>2021/11/04 20:37:50.000.170,C:\Users\Luciano\Desktop\Teste Delphi\Controller\Cadastro.Controller.CEP.pas=C:\Users\Luciano\Desktop\Teste Delphi\Projeto\Unit1.pas</Transaction>
+    <Transaction>2021/11/04 20:39:18.000.529,=C:\Users\Luciano\Desktop\Teste Delphi\Projeto\Unit1.pas</Transaction>
+    <Transaction>2021/11/04 20:39:34.000.391,C:\Users\Luciano\Desktop\Teste Delphi\Model\Cadastro.Model.CEP.pas=C:\Users\Luciano\Desktop\Teste Delphi\Projeto\Unit1.pas</Transaction>
+    <Transaction>2021/11/04 21:38:12.000.385,=C:\Users\Luciano\Desktop\Teste Delphi\Projeto\Unit1.pas</Transaction>
+    <Transaction>2021/11/04 21:39:50.000.174,C:\Users\Luciano\Desktop\Teste Delphi\Controller\Cadastro.Controller.Cliente.pas=C:\Users\Luciano\Desktop\Teste Delphi\Projeto\Unit1.pas</Transaction>
+    <Transaction>2021/11/04 21:40:42.000.287,=C:\Users\Luciano\Desktop\Teste Delphi\Projeto\Unit1.pas</Transaction>
+    <Transaction>2021/11/04 21:42:00.000.723,C:\Users\Luciano\Desktop\Teste Delphi\Model\Cadastro.Model.Cliente.pas=C:\Users\Luciano\Desktop\Teste Delphi\Projeto\Unit1.pas</Transaction>
+    <Transaction>2021/11/04 21:53:53.000.478,=C:\Users\Luciano\Desktop\Teste Delphi\Projeto\Unit1.pas</Transaction>
+    <Transaction>2021/11/04 21:56:25.000.876,C:\Users\Luciano\Desktop\Teste Delphi\Model\Cadastro.Model.Email.pas=C:\Users\Luciano\Desktop\Teste Delphi\Projeto\Unit1.pas</Transaction>
+    <Transaction>2021/11/04 22:37:53.000.663,=C:\Users\Luciano\Desktop\Teste Delphi\Projeto\Unit1.pas</Transaction>
+    <Transaction>2021/11/04 22:39:50.000.488,C:\Users\Luciano\Desktop\Teste Delphi\Controller\Cadastro.Controller.Email.pas=C:\Users\Luciano\Desktop\Teste Delphi\Projeto\Unit1.pas</Transaction>
+    <Transaction>2021/11/05 00:42:25.000.120,=C:\Users\Luciano\Desktop\Teste Delphi\View\Cadastro.View.ConfiguracaoEmail.pas</Transaction>
+    <Transaction>2021/11/05 07:56:01.000.553,=C:\Users\Luciano\Desktop\Teste Delphi\Projeto\Unit1.pas</Transaction>
+    <Transaction>2021/11/05 07:58:46.000.533,C:\Users\Luciano\Desktop\Teste Delphi\Model\Cadastro.Model.pas=C:\Users\Luciano\Desktop\Teste Delphi\Projeto\Unit1.pas</Transaction>
+    <Transaction>2021/11/05 08:34:18.000.023,C:\Users\Luciano\Desktop\Teste Delphi\Model\Cadastro.Model.XML.XML=C:\Users\Luciano\Desktop\Teste Delphi\Model\Cadastro.Model.XML</Transaction>
+    <Transaction>2021/11/05 08:34:50.000.210,C:\Users\Luciano\Desktop\Teste Delphi\Model\Cadastro.Model.XML.pas=</Transaction>
+    <Transaction>2021/11/05 08:34:54.000.392,=C:\Users\Luciano\Desktop\Teste Delphi\Projeto\Unit1.pas</Transaction>
+    <Transaction>2021/11/05 08:35:29.000.964,C:\Users\Luciano\Desktop\Teste Delphi\Model\Cadastro.Model.XML.pas=C:\Users\Luciano\Desktop\Teste Delphi\Projeto\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="Celular" Android64="Celular"/>
+	</ActiveMobileDevice>
+</BorlandProject>
